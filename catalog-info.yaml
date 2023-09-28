@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: My-Sublime-Configuration
+  annotations:
+    github.com/project-slug: riginoommen/My-Sublime-Configuration
+spec:
+  type: other
+  lifecycle: unknown
+  owner: dsssds
